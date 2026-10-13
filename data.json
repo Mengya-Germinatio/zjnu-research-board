@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-10-12T23:29:28",
+ "generated_at": "2026-10-13T12:51:15",
  "stats": {
-  "items": 579,
+  "items": 581,
   "cols": 45,
   "privacy_filtered": 2
  },
  "public": true,
  "items": [
+  {
+   "title": "关于开展2024年校研究生教育教学改革实践项目结题验收工作的通知",
+   "date": "2026-10-13",
+   "url": "http://yjsb.zjnu.edu.cn/2026/1013/c4739a591323/page.htm",
+   "source": "研究生院·通知公告",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-10-13T12:50:24"
+  },
+  {
+   "title": "化学前沿系列讲座 10月14日 华彬 研究员 学术报告",
+   "date": "2026-10-12",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1012/c16587a591226/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-10-13T12:50:24"
+  },
   {
    "title": "初阳学院2025-2026学年省政府奖学金拟推荐人选公示",
    "date": "2026-10-12",
