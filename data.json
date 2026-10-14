@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-14T11:01:13",
+ "generated_at": "2026-10-14T11:06:42",
  "stats": {
-  "items": 593,
+  "items": 588,
   "cols": 45,
   "privacy_filtered": 3
  },
@@ -618,17 +618,6 @@
    "url": "http://tw.zjnu.edu.cn/2026/1007/c5005a590759/page.htm",
    "source": "团委·学术活动(一周学术活动)",
    "section": "讲座学术",
-   "kind": "强相关",
-   "cat": "讲座与学术",
-   "color": "#6366f1",
-   "first_seen": "2026-10-10T15:13:22"
-  },
-  {
-   "title": "2026-08",
-   "date": "2026-10-07",
-   "url": "http://wdxy.zjnu.edu.cn/2026/1007/c11741a590756/page.htm",
-   "source": "物电学院·学术报告",
-   "section": "学院讲座",
    "kind": "强相关",
    "cat": "讲座与学术",
    "color": "#6366f1",
@@ -1497,17 +1486,6 @@
    "date": "2026-09-14",
    "url": "https://mp.weixin.qq.com/s/c30r539WojR-GmvRPyFEKQ",
    "source": "外国语学院·北山问道讲坛",
-   "section": "学院讲座",
-   "kind": "强相关",
-   "cat": "讲座与学术",
-   "color": "#6366f1",
-   "first_seen": "2026-10-10T15:13:22"
-  },
-  {
-   "title": "2026-06",
-   "date": "2026-09-14",
-   "url": "http://wdxy.zjnu.edu.cn/2026/0914/c11741a581217/page.htm",
-   "source": "物电学院·学术报告",
    "section": "学院讲座",
    "kind": "强相关",
    "cat": "讲座与学术",
@@ -3682,17 +3660,6 @@
    "first_seen": "2026-10-12T23:27:24"
   },
   {
-   "title": "2026-05",
-   "date": "2026-04-17",
-   "url": "http://wdxy.zjnu.edu.cn/2026/0417/c11741a551807/page.htm",
-   "source": "物电学院·学术报告",
-   "section": "学院讲座",
-   "kind": "强相关",
-   "cat": "讲座与学术",
-   "color": "#6366f1",
-   "first_seen": "2026-10-10T15:13:22"
-  },
-  {
    "title": "初阳学院关于开展2026年暑期出国（境）访学项目的通知",
    "date": "2026-04-16",
    "url": "https://cyxy.zjnu.edu.cn/2026/0416/c7274a551793/page.htm",
@@ -3866,17 +3833,6 @@
    "kind": "相关",
    "cat": "讲座与学术",
    "color": "#6366f1",
-   "first_seen": "2026-10-10T15:13:22"
-  },
-  {
-   "title": "校园照片",
-   "date": "2026-04-01",
-   "url": "http://rwskc.zjnu.edu.cn/2026/0401/c16860a550408/page.htm",
-   "source": "社科处·首页(通知)",
-   "section": "科研项目",
-   "kind": "强相关",
-   "cat": "科研项目申报",
-   "color": "#0ea5e9",
    "first_seen": "2026-10-10T15:13:22"
   },
   {
@@ -4163,17 +4119,6 @@
    "kind": "强相关",
    "cat": "科研项目申报",
    "color": "#0ea5e9",
-   "first_seen": "2026-10-10T15:13:22"
-  },
-  {
-   "title": "2026-02",
-   "date": "2026-03-04",
-   "url": "http://wdxy.zjnu.edu.cn/2026/0304/c11741a547593/page.htm",
-   "source": "物电学院·学术报告",
-   "section": "学院讲座",
-   "kind": "强相关",
-   "cat": "讲座与学术",
-   "color": "#6366f1",
    "first_seen": "2026-10-10T15:13:22"
   },
   {
