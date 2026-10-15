@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T21:23:10",
+ "generated_at": "2026-10-15T21:28:03",
  "stats": {
   "items": 572,
   "cols": 46,
@@ -7,6 +7,17 @@
  },
  "public": true,
  "items": [
+  {
+   "title": "生命科学学院饶玉春教授团队在Plant, Cell & Environment上发表研究成果",
+   "date": "2026-10-15",
+   "url": "http://news.zjnu.edu.cn/2026/1015/c8450a591527/page.htm",
+   "source": "校新闻中心·学术动态",
+   "section": "讲座学术",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-10-15T21:27:19"
+  },
   {
    "title": "浙江师范大学教育基金会腾讯公益金项目图书捐赠仪式举行",
    "date": "2026-10-15",
@@ -22,17 +33,6 @@
    "title": "龙州县委副书记、县长黄荣荣一行来浙师大考察交流",
    "date": "2026-10-15",
    "url": "http://news.zjnu.edu.cn/2026/1015/c8449a591518/page.htm",
-   "source": "浙师大·首页",
-   "section": "校网首页",
-   "kind": "兜底",
-   "cat": "校级动态",
-   "color": "#94a3b8",
-   "first_seen": "2026-10-15T21:20:39"
-  },
-  {
-   "title": "生命科学学院饶玉春教授团队在Plant, Cell & Environment上发表研究成果",
-   "date": "2026-10-15",
-   "url": "http://news.zjnu.edu.cn/2026/1015/c8450a591527/page.htm",
    "source": "浙师大·首页",
    "section": "校网首页",
    "kind": "兜底",
