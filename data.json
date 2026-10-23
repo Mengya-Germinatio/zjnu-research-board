@@ -1,12 +1,111 @@
 {
- "generated_at": "2026-10-21T10:11:09",
+ "generated_at": "2026-10-23T09:57:07",
  "stats": {
-  "items": 599,
+  "items": 614,
   "cols": 47,
   "privacy_filtered": 3
  },
  "public": true,
  "items": [
+  {
+   "title": "关于开展第四期研究生课程思政示范课程验收工作的通知",
+   "date": "2026-10-22",
+   "url": "http://yjsb.zjnu.edu.cn/2026/1022/c4739a592015/page.htm",
+   "source": "研究生院·通知公告",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "化学前沿系列讲座 10月27日 杨俊锋 副教授 学术报告",
+   "date": "2026-10-22",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1022/c16587a592040/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "化学前沿系列讲座 10月27日 王鹏 研究员 学术报告",
+   "date": "2026-10-22",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1022/c16587a592023/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "关于开展第二期深度科研训练项目结题工作的通知",
+   "date": "2026-10-22",
+   "url": "https://cyxy.zjnu.edu.cn/2026/1022/c7274a592006/page.htm",
+   "source": "初阳学院·首页",
+   "section": "院网首页",
+   "kind": "兜底",
+   "cat": "院网动态",
+   "color": "#8b5cf6",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "2026年度教育部哲学社会科学研究重大课题攻关项目和高校思政课教师研究专项重大课题攻关项目申报通知",
+   "date": "2026-10-21",
+   "url": "http://rwskc.zjnu.edu.cn/2026/1021/c16806a591977/page.htm",
+   "source": "社科处·首页(通知)",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "关于开展2025年度主题案例结项验收工作的通知",
+   "date": "2026-10-21",
+   "url": "http://yjsb.zjnu.edu.cn/2026/1021/c4739a591953/page.htm",
+   "source": "研究生院·通知公告",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "一周学术活动【10月12日-10月16日】",
+   "date": "2026-10-21",
+   "url": "http://tw.zjnu.edu.cn/2026/1021/c5005a591954/page.htm",
+   "source": "团委·学术活动(一周学术活动)",
+   "section": "讲座学术",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "化学前沿系列讲座 10月28日 张清伟 教授 学术报告",
+   "date": "2026-10-21",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1021/c16587a591975/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "化学前沿系列讲座 10月28日 邓亮 研究员 学术报告",
+   "date": "2026-10-21",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1021/c16587a591967/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-10-23T09:48:12"
+  },
   {
    "title": "20 2026-10 敦学讲坛第150讲｜科研中的选择与成长： ——林金锡教授畅谈十篇《Computers & Education》文章背后的思考 10月14日上午，香港大学教育学院博士生导师林金锡教授莅临浙江师范大学，在17幢112报告厅带来“科研中的选择与成长：十篇《Computers & Education》文章背后的思考”的主题讲座。 任睿主持教育学院（教师教育学院）课程与教学研究所、教师",
    "date": "2026-10-21",
@@ -28,6 +127,83 @@
    "cat": "讲座与学术",
    "color": "#6366f1",
    "first_seen": "2026-10-21T10:10:32"
+  },
+  {
+   "title": "关于组织2026年下半年学生体质健康测试的通知",
+   "date": "2026-10-21",
+   "url": "https://tiwei.zjnu.edu.cn/2026/1021/c2638a591921/page.htm",
+   "source": "教务处·文件通知",
+   "section": "竞赛训练",
+   "kind": "相关",
+   "cat": "竞赛与训练",
+   "color": "#f59e0b",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "初阳学院第三期深度科研训练项目立项公示",
+   "date": "2026-10-21",
+   "url": "https://cyxy.zjnu.edu.cn/2026/1021/c7274a591980/page.htm",
+   "source": "初阳学院·首页",
+   "section": "院网首页",
+   "kind": "兜底",
+   "cat": "院网动态",
+   "color": "#8b5cf6",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "关于公布数学教学设计评比活动结果的通知",
+   "date": "2026-10-21",
+   "url": "https://cyxy.zjnu.edu.cn/2026/1021/c7274a591979/page.htm",
+   "source": "初阳学院·首页",
+   "section": "院网首页",
+   "kind": "兜底",
+   "cat": "院网动态",
+   "color": "#8b5cf6",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "125个社团怎么选？指南来了！（下）",
+   "date": "2026-10-21",
+   "url": "https://mp.weixin.qq.com/s/o_xDmgX7vvcdCZZ2gGcKpQ",
+   "source": "团委·新闻动态",
+   "section": "竞赛训练",
+   "kind": "相关",
+   "cat": "竞赛与训练",
+   "color": "#f59e0b",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "125个社团怎么选？指南来了！（上）",
+   "date": "2026-10-21",
+   "url": "https://mp.weixin.qq.com/s/c_1GxVW-MhTZyks--3aEsA",
+   "source": "团委·新闻动态",
+   "section": "竞赛训练",
+   "kind": "相关",
+   "cat": "竞赛与训练",
+   "color": "#f59e0b",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "爱就坚持动起来丨快乐不打烊！秋天，约一场“不烧心”的夜跑！",
+   "date": "2026-10-21",
+   "url": "https://mp.weixin.qq.com/s/J84lU8RPzbLOHuOVDOy37g",
+   "source": "团委·新闻动态",
+   "section": "竞赛训练",
+   "kind": "相关",
+   "cat": "竞赛与训练",
+   "color": "#f59e0b",
+   "first_seen": "2026-10-23T09:48:12"
+  },
+  {
+   "title": "爱就坚持动起来丨步踏星月，乐伴山河，浙师夜跑圆满收官！",
+   "date": "2026-10-21",
+   "url": "https://mp.weixin.qq.com/s/n9YOs_42fKzeRe94AB5E4g",
+   "source": "团委·新闻动态",
+   "section": "竞赛训练",
+   "kind": "相关",
+   "cat": "竞赛与训练",
+   "color": "#f59e0b",
+   "first_seen": "2026-10-23T09:48:12"
   },
   {
    "title": "浙师大91名学者入选“全球前2%顶尖科学家榜单”",
@@ -572,17 +748,6 @@
    "title": "浙江光电子研究院入选浙江省“概念验证+技术经理人”第一批试点名单",
    "date": "2026-10-12",
    "url": "http://news.zjnu.edu.cn/2026/1012/c8450a591253/page.htm",
-   "source": "浙师大·首页",
-   "section": "校网首页",
-   "kind": "兜底",
-   "cat": "校级动态",
-   "color": "#94a3b8",
-   "first_seen": "2026-10-18T10:45:23"
-  },
-  {
-   "title": "一周学术活动【10月12日-10月16日】",
-   "date": "2026-10-12",
-   "url": "http://news.zjnu.edu.cn/2026/1012/c8450a591251/page.htm",
    "source": "浙师大·首页",
    "section": "校网首页",
    "kind": "兜底",
