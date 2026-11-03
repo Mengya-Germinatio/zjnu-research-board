@@ -1,12 +1,89 @@
 {
- "generated_at": "2026-11-02T15:27:40",
+ "generated_at": "2026-11-03T13:48:20",
  "stats": {
-  "items": 735,
+  "items": 743,
   "cols": 47,
   "privacy_filtered": 3
  },
  "public": true,
  "items": [
+  {
+   "title": "关于申报校2026年度区域国别学国家急需高层次人才培养专项课题的...",
+   "date": "2026-11-03",
+   "url": "http://yjsb.zjnu.edu.cn/2026/1103/c4739a592986/page.htm",
+   "source": "研究生院·通知公告",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-03T13:48:12"
+  },
+  {
+   "title": "关于做好2027届普通高等毕（结）业学生图像信息补拍工作的通知",
+   "date": "2026-11-03",
+   "url": "http://jwc.zjnu.edu.cn/2026/1103/c4331a593013/page.htm",
+   "source": "教务处·文件通知",
+   "section": "竞赛训练",
+   "kind": "相关",
+   "cat": "竞赛与训练",
+   "color": "#f59e0b",
+   "first_seen": "2026-11-03T13:48:12"
+  },
+  {
+   "title": "浙师大2026年全民终身学习活动周启动",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8449a593017/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T13:48:12"
+  },
+  {
+   "title": "浙师大以科学为媒厚植中美青少年友谊受媒体关注报道",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8449a593009/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T13:48:12"
+  },
+  {
+   "title": "大灵·德内·罗德里格导演作品《功夫追梦》喀麦隆首映式举行",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8449a592998/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T13:48:12"
+  },
+  {
+   "title": "新华网：纪录片《功夫追梦》在喀麦隆首映，彰显中非文化纽带",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8451a593002/page.htm",
+   "source": "校新闻中心·媒体视角",
+   "section": "讲座学术",
+   "kind": "相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T13:48:12"
+  },
+  {
+   "title": "中国教师报：以科学为媒，共探新知，厚植中美青少年友谊",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8451a593001/page.htm",
+   "source": "校新闻中心·媒体视角",
+   "section": "讲座学术",
+   "kind": "相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T13:48:12"
+  },
   {
    "title": "关于开展国家科技专家库专家征集工作的通知",
    "date": "2026-11-02",
@@ -61,6 +138,17 @@
    "cat": "科研项目申报",
    "color": "#0ea5e9",
    "first_seen": "2026-11-02T15:27:20"
+  },
+  {
+   "title": "一周学术活动【11月2日—11月6日】",
+   "date": "2026-11-02",
+   "url": "http://news.zjnu.edu.cn/2026/1102/c8450a592967/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T13:48:12"
   },
   {
    "title": "教育部5项、省级14项！浙师大思政工作精品项目立项获佳绩",
