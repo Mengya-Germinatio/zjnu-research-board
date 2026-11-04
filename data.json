@@ -1,12 +1,155 @@
 {
- "generated_at": "2026-11-03T13:48:20",
+ "generated_at": "2026-11-04T09:53:55",
  "stats": {
-  "items": 743,
+  "items": 760,
   "cols": 47,
   "privacy_filtered": 3
  },
  "public": true,
  "items": [
+  {
+   "title": "一周学术活动【11月2日—11月6日】",
+   "date": "2026-11-04",
+   "url": "http://kjc.zjnu.edu.cn/2026/1104/c17002a593103/page.htm",
+   "source": "科技处·学术活动(一周学术活动)",
+   "section": "讲座学术",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-04T09:53:25"
+  },
+  {
+   "title": "关于举办浙江师范大学第二届全日制教育硕士专业学位研究生理科解...",
+   "date": "2026-11-04",
+   "url": "http://yjsb.zjnu.edu.cn/2026/1104/c4739a593108/page.htm",
+   "source": "研究生院·通知公告",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-04T09:53:25"
+  },
+  {
+   "title": "光明日报：浙江师范大学附属中学让“五育并举”看得见摸得着",
+   "date": "2026-11-04",
+   "url": "http://news.zjnu.edu.cn/2026/1104/c8451a593122/page.htm",
+   "source": "校新闻中心·媒体视角",
+   "section": "讲座学术",
+   "kind": "相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-04T09:53:25"
+  },
+  {
+   "title": "关于开展2026年浙江省哲学社会科学规划应用对策（援助阿克苏）课题申报的通知",
+   "date": "2026-11-03",
+   "url": "http://rwskc.zjnu.edu.cn/2026/1103/c16806a593060/page.htm",
+   "source": "社科处·首页(通知)",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "关于做好研究生课程学分和必修环节考核的通知",
+   "date": "2026-11-03",
+   "url": "http://yjsb.zjnu.edu.cn/2026/1103/c4739a593045/page.htm",
+   "source": "研究生院·通知公告",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "一周学术活动【10月26日-10月30日】",
+   "date": "2026-11-03",
+   "url": "http://tw.zjnu.edu.cn/2026/1103/c5005a593053/page.htm",
+   "source": "团委·学术活动(一周学术活动)",
+   "section": "讲座学术",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "学术外院 | 浙师大外国语学院冯宝鑫博士在SSCI国际期刊发表学术论文",
+   "date": "2026-11-03",
+   "url": "https://mp.weixin.qq.com/s/wgb0ZACHU2XRgua0M-YToQ",
+   "source": "外国语学院·北山问道讲坛",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "化学前沿系列讲座 11月5日 王坤 教授 学术报告",
+   "date": "2026-11-03",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1103/c16587a593047/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "化学前沿系列讲座 11月7日 林爱俊 教授 学术报告",
+   "date": "2026-11-03",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1103/c16587a593040/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "化学前沿系列讲座 11月7日 董秀琴 教授 学术报告",
+   "date": "2026-11-03",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1103/c16587a593039/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "化学前沿系列讲座 11月9日 关正辉 教授 学术报告",
+   "date": "2026-11-03",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1103/c16587a593041/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "化学前沿系列讲座 11月9日 郭昌 教授 学术报告",
+   "date": "2026-11-03",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1103/c16587a593042/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "化学前沿系列讲座 11月9日 赵东兵 教授 学术报告",
+   "date": "2026-11-03",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1103/c16587a593044/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-03T22:52:33"
+  },
   {
    "title": "关于申报校2026年度区域国别学国家急需高层次人才培养专项课题的...",
    "date": "2026-11-03",
@@ -28,6 +171,72 @@
    "cat": "竞赛与训练",
    "color": "#f59e0b",
    "first_seen": "2026-11-03T13:48:12"
+  },
+  {
+   "title": "浙师大党委理论学习中心组举行学习（扩大）会 专题学习党的二十届五中全会精神",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8449a593037/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "俄罗斯百人校长访华团来访浙师大",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8449a593057/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "2026年金华市青年科技创新暨人工智能（AI）创新应用比武活动在浙师大举办",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8449a593084/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "中国运筹学会数学优化分会第八届主任委员扩大会议暨数学优化研讨会在浙师大举行",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8450a593070/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "化材学院多功能框架材料研究院史乐课题组在JACS上发表成果",
+   "date": "2026-11-03",
+   "url": "http://news.zjnu.edu.cn/2026/1103/c8450a593043/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-03T22:52:33"
+  },
+  {
+   "title": "爱就志愿燃起来丨婺水润初心，浙师“小梧桐”出征！",
+   "date": "2026-11-03",
+   "url": "https://mp.weixin.qq.com/s/wWrd0S5tfpMrseARf7oufw",
+   "source": "团委·新闻动态",
+   "section": "竞赛训练",
+   "kind": "相关",
+   "cat": "竞赛与训练",
+   "color": "#f59e0b",
+   "first_seen": "2026-11-03T22:52:33"
   },
   {
    "title": "浙师大2026年全民终身学习活动周启动",
@@ -138,17 +347,6 @@
    "cat": "科研项目申报",
    "color": "#0ea5e9",
    "first_seen": "2026-11-02T15:27:20"
-  },
-  {
-   "title": "一周学术活动【11月2日—11月6日】",
-   "date": "2026-11-02",
-   "url": "http://news.zjnu.edu.cn/2026/1102/c8450a592967/page.htm",
-   "source": "浙师大·首页",
-   "section": "校网首页",
-   "kind": "兜底",
-   "cat": "校级动态",
-   "color": "#94a3b8",
-   "first_seen": "2026-11-03T13:48:12"
   },
   {
    "title": "教育部5项、省级14项！浙师大思政工作精品项目立项获佳绩",
@@ -935,17 +1133,6 @@
    "title": "浙师大举办第52届田径运动会",
    "date": "2026-10-26",
    "url": "http://news.zjnu.edu.cn/2026/1026/c8449a592274/page.htm",
-   "source": "浙师大·首页",
-   "section": "校网首页",
-   "kind": "兜底",
-   "cat": "校级动态",
-   "color": "#94a3b8",
-   "first_seen": "2026-10-26T15:24:11"
-  },
-  {
-   "title": "一周学术活动【10月26日-10月30日】",
-   "date": "2026-10-26",
-   "url": "http://news.zjnu.edu.cn/2026/1026/c8450a592290/page.htm",
    "source": "浙师大·首页",
    "section": "校网首页",
    "kind": "兜底",
