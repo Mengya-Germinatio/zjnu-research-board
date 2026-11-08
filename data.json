@@ -1,12 +1,78 @@
 {
- "generated_at": "2026-11-07T21:43:55",
+ "generated_at": "2026-11-08T09:39:47",
  "stats": {
-  "items": 785,
+  "items": 789,
   "cols": 47,
   "privacy_filtered": 3
  },
  "public": true,
  "items": [
+  {
+   "title": "丁仲礼一行走访调研浙江师范大学",
+   "date": "2026-11-08",
+   "url": "http://news.zjnu.edu.cn/2026/1108/c8449a593384/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-08T09:39:36"
+  },
+  {
+   "title": "2026中非经贸和文化论坛｜2026中非经贸和文化论坛开幕",
+   "date": "2026-11-08",
+   "url": "http://news.zjnu.edu.cn/2026/1108/c8449a593383/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-08T09:39:36"
+  },
+  {
+   "title": "光明日报:《中非携手实践 “全球南方” 现代化智库行动宣言》《中非文明互鉴共识》发布",
+   "date": "2026-11-08",
+   "url": "http://news.zjnu.edu.cn/2026/1108/c8451a593381/page.htm",
+   "source": "校新闻中心·媒体视角",
+   "section": "讲座学术",
+   "kind": "相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-08T09:39:36"
+  },
+  {
+   "title": "潮新闻:中非智库论坛第十五届会议在义乌启幕 专家学者热议中非携手推进现代化",
+   "date": "2026-11-08",
+   "url": "http://news.zjnu.edu.cn/2026/1108/c8451a593382/page.htm",
+   "source": "校新闻中心·媒体视角",
+   "section": "讲座学术",
+   "kind": "相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-08T09:39:36"
+  },
+  {
+   "title": "中非文明互鉴共识（六语种）发布",
+   "date": "2026-11-07",
+   "url": "http://news.zjnu.edu.cn/2026/1107/c8450a593379/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-08T09:39:36"
+  },
+  {
+   "title": "中非携手实践“全球南方”现代化智库行动宣言（六语种）发布",
+   "date": "2026-11-07",
+   "url": "http://news.zjnu.edu.cn/2026/1107/c8450a593378/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-08T09:39:36"
+  },
   {
    "title": "More >",
    "date": "2026-11-07",
@@ -105,28 +171,6 @@
    "cat": "竞赛与训练",
    "color": "#f59e0b",
    "first_seen": "2026-11-07T07:53:14"
-  },
-  {
-   "title": "中非文明互鉴共识（六语种）发布",
-   "date": "2026-11-06",
-   "url": "https://ias.zjnu.edu.cn/2026/1106/c6141a593368/page.htm",
-   "source": "浙师大·首页",
-   "section": "校网首页",
-   "kind": "兜底",
-   "cat": "校级动态",
-   "color": "#94a3b8",
-   "first_seen": "2026-11-07T21:40:38"
-  },
-  {
-   "title": "中非携手实践“全球南方”现代化智库行动宣言(六语种）发布",
-   "date": "2026-11-06",
-   "url": "https://ias.zjnu.edu.cn/2026/1106/c6141a593369/page.htm",
-   "source": "浙师大·首页",
-   "section": "校网首页",
-   "kind": "兜底",
-   "cat": "校级动态",
-   "color": "#94a3b8",
-   "first_seen": "2026-11-07T21:40:38"
   },
   {
    "title": "浙师大5名博士生入选2026年中国科协青年科技人才培育工程专项计划",
