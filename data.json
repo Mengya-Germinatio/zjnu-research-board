@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T14:42:32",
+ "generated_at": "2026-11-09T15:27:48",
  "stats": {
-  "items": 800,
+  "items": 801,
   "cols": 47,
   "privacy_filtered": 3
  },
@@ -50,6 +50,17 @@
    "cat": "讲座与学术",
    "color": "#6366f1",
    "first_seen": "2026-11-09T14:42:00"
+  },
+  {
+   "title": "人文学院三个研究平台入选浙学研究联盟单位",
+   "date": "2026-11-09",
+   "url": "http://news.zjnu.edu.cn/2026/1109/c8450a593463/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-09T15:27:20"
   },
   {
    "title": "| 初阳学院一行赴湖州师范大学安定书院（创新创业学院）调研交流",
