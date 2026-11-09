@@ -1,12 +1,56 @@
 {
- "generated_at": "2026-11-09T15:27:48",
+ "generated_at": "2026-11-09T22:36:07",
  "stats": {
-  "items": 801,
+  "items": 806,
   "cols": 47,
   "privacy_filtered": 3
  },
  "public": true,
  "items": [
+  {
+   "title": "初阳学院关于公布第二期深度科研训练项目结题 验收结果的通知",
+   "date": "2026-11-09",
+   "url": "https://cyxy.zjnu.edu.cn/2026/1109/c7274a593467/page.htm",
+   "source": "初阳学院·通知公告",
+   "section": "通知公告",
+   "kind": "强相关",
+   "cat": "院网通知",
+   "color": "#8b5cf6",
+   "first_seen": "2026-11-09T22:31:40"
+  },
+  {
+   "title": "浙江省教育厅办公室关于开展2026—2027年度浙江省高校重大人文社科攻关计划项目申报工作的通知",
+   "date": "2026-11-09",
+   "url": "http://rwskc.zjnu.edu.cn/2026/1109/c16806a593475/page.htm",
+   "source": "社科处·首页(通知)",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-09T22:31:40"
+  },
+  {
+   "title": "关于开展2026年全国国际商务专业学位研究生教育指导委员会示范教...",
+   "date": "2026-11-09",
+   "url": "http://yjsb.zjnu.edu.cn/2026/1109/c4739a593493/page.htm",
+   "source": "研究生院·通知公告",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-09T22:31:40"
+  },
+  {
+   "title": "11月12日-物理学科学术报告（李田军教授，河南师范大学物理学院）",
+   "date": "2026-11-09",
+   "url": "http://wdxy.zjnu.edu.cn/2026/1109/c11681a593491/page.htm",
+   "source": "物电学院·学术报告",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-09T22:31:40"
+  },
   {
    "title": "09 2026-11 【讲座预告】坦桑尼亚达累斯萨拉姆大学校长William Anangisye教授主讲敦学讲坛第158讲：《China–Africa Cooperation in Higher E... 11月10日（周二）下午16:00，坦桑尼亚达累斯萨拉姆大学校长William Anangisye教授将在32幢219教室，主讲敦学讲坛第158讲暨国际与比较教育研究所系列讲座《China–Af",
    "date": "2026-11-09",
@@ -50,6 +94,17 @@
    "cat": "讲座与学术",
    "color": "#6366f1",
    "first_seen": "2026-11-09T14:42:00"
+  },
+  {
+   "title": "浙师大举行第35个全国消防日消防应急疏散演练",
+   "date": "2026-11-09",
+   "url": "http://news.zjnu.edu.cn/2026/1109/c8449a593512/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-09T22:31:40"
   },
   {
    "title": "人文学院三个研究平台入选浙学研究联盟单位",
