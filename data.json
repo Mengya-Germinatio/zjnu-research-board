@@ -1,12 +1,144 @@
 {
- "generated_at": "2026-11-15T10:44:06",
+ "generated_at": "2026-11-17T13:22:28",
  "stats": {
-  "items": 841,
+  "items": 853,
   "cols": 47,
   "privacy_filtered": 3
  },
  "public": true,
  "items": [
+  {
+   "title": "关于开展教育部哲学社会科学研究专项（党的二十届五中全会精神研究阐释）申报工作的通知",
+   "date": "2026-11-17",
+   "url": "http://rwskc.zjnu.edu.cn/2026/1117/c16806a594055/page.htm",
+   "source": "社科处·首页(通知)",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "关于公布2027年浙江省社科社会组织年度课题立项名单的通知",
+   "date": "2026-11-17",
+   "url": "http://rwskc.zjnu.edu.cn/2026/1117/c16807a594067/page.htm",
+   "source": "社科处·首页(通知)",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "关于公布2026年金华文化研究工程立项课题名单的通知",
+   "date": "2026-11-16",
+   "url": "http://rwskc.zjnu.edu.cn/2026/1116/c16807a593928/page.htm",
+   "source": "社科处·首页(通知)",
+   "section": "科研项目",
+   "kind": "强相关",
+   "cat": "科研项目申报",
+   "color": "#0ea5e9",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "化学前沿系列讲座 11月16日 史慧芳 教授 学术报告",
+   "date": "2026-11-16",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1116/c16587a593980/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "化学前沿系列讲座 11月20日 何川 教授 学术报告",
+   "date": "2026-11-16",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1116/c16587a593975/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "化学前沿系列讲座 11月20日 黄嘉兴 教授 学术报告",
+   "date": "2026-11-16",
+   "url": "http://hcxy.zjnu.edu.cn/2026/1116/c16587a593937/page.htm",
+   "source": "化材学院·化学前沿系列讲座",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "11月19日-物理学科学术报告（赵立臣教授，西北大学物理学院）",
+   "date": "2026-11-16",
+   "url": "http://wdxy.zjnu.edu.cn/2026/1116/c11681a594007/page.htm",
+   "source": "物电学院·学术报告",
+   "section": "学院讲座",
+   "kind": "强相关",
+   "cat": "讲座与学术",
+   "color": "#6366f1",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "浙师大受邀参加2026世界中文大会",
+   "date": "2026-11-16",
+   "url": "http://news.zjnu.edu.cn/2026/1116/c8449a593988/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "浙师学子在第八届长三角师范生教学基本功大赛中喜获佳绩",
+   "date": "2026-11-16",
+   "url": "http://news.zjnu.edu.cn/2026/1116/c8449a593929/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "浙师大主办APEC地区绿色制造技术研讨会",
+   "date": "2026-11-16",
+   "url": "http://news.zjnu.edu.cn/2026/1116/c8450a594020/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "一周学术活动【11月16日-11月20日】",
+   "date": "2026-11-16",
+   "url": "http://news.zjnu.edu.cn/2026/1116/c8450a593939/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-17T13:22:19"
+  },
+  {
+   "title": "第三届大型科研仪器维修维护技术发展研讨会召开",
+   "date": "2026-11-16",
+   "url": "http://news.zjnu.edu.cn/2026/1116/c8450a593931/page.htm",
+   "source": "浙师大·首页",
+   "section": "校网首页",
+   "kind": "兜底",
+   "cat": "校级动态",
+   "color": "#94a3b8",
+   "first_seen": "2026-11-17T13:22:19"
+  },
   {
    "title": "学术外院 | 浙师大外国语学院孔菊芳副教授参加“第27届亚洲地区英语语言测试国际研讨会”",
    "date": "2026-11-15",
